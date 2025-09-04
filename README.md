@@ -35,6 +35,6 @@ This repository showcases the development of a custom PCB based on the RP2040 mi
 
 ![Custom RP2040 Board](rasp_adc16bit.png)
 
-
+![Schematic](SCH_rasp_ads.pdf)
 
 
