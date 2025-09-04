@@ -22,5 +22,19 @@ This repository showcases the development of a custom PCB based on the RP2040 mi
 
 ---
 
-## 📁 Directory Structure
+
+---
+
+## 📷 Visual Documentation
+
+- High-resolution photos of the board (front and back)
+- PCB layout screenshots EasyEda(JLCPCB)
+- Wiring diagram: RP2040 ↔ ADS1115
+
+## 🖼️ Board Preview
+
+![Custom RP2040 Board](rasp_adc16bit.png)
+
+
+
 
